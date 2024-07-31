@@ -1,0 +1,29 @@
+
+question : write ten order in git 
+pull requests 
+git pull-->Update local repository to the newest commit
+git pull origin [branch name]---> Pull changes from remote repository
+
+tag and release
+git tag-->Listing the existing tags in Git
+git release tag_name--->Create and push a release
+
+
+ignore file
+touch .gitignore-->to reate gitignore file
+git rm --cached FILENAME--> to ignore a file that is already checked in
+
+
+ssh
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"--->key creation
+
+git checkout [branch name]--->	Switch to a branch
+
+git push origin [branch name]-->Push a branch to your remote repository
+git pull--->Update local repository to the newest commit
+git log	-->View changes
+git diff [source branch] [target branch]----->Preview changes before 
+merging
+git push origin --delete [branch name] --->Delete a remote branch
+
+my name is Roaa Hussam 
